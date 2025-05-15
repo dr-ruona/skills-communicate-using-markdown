@@ -1,2 +1,4 @@
 # Learning how to use markdown
-#2 Markdown using formatting 
+# Markdown using formatting 
+# Using this tag makes it a header
+#4 Using the markdown feature is actually time efficient 
