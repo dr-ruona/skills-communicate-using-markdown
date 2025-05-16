@@ -1,6 +1,6 @@
 # Learning how to use markdown
 ## Markdown using formatting
-*_ #4 Using the markdown feature is actually time efficient _*
+*_#4 Using the markdown feature is actually time efficient_*
 ### Using this tag makes it a header
 #### Formatting 
 
